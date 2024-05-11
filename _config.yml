@@ -16,8 +16,7 @@ timezone: Asia/Seoul
 
 title: Hyunjun Choi # the main title
 
-# it will display as the sub-title
-tagline: A space to document my interests and publish weekly reports.
+tagline: A space to document my interests and publish weekly reports. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A personal blog to document my interests and publish weekly reports.
